@@ -8,7 +8,12 @@ assignees: ''
 ---
 
 **Ghostly version**
-The version of Ghostly you encountered this bug in.
+i.e. 1.0.5
+
+**Windows 10 version**
+i.e. 1903
+
+_Please include the OS build number if you're running an insider build of Windows 10)_
 
 **Describe the bug**
 A clear and concise description of what the bug is.
@@ -23,12 +28,8 @@ Steps to reproduce the behavior:
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
+**Screenshots** (optional)
 If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Version [e.g. 22]
-
-**Additional context**
+**Additional context** (optional)
 Add any other context about the problem here.
