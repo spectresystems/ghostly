@@ -1012,9 +1012,19 @@
       "Translation": "Favoriter"
     },
     {
+      "Key": "Synchronization_DisabledBecauseOfMeteredConnection",
+      "Comment": "⚠ Synchronization is disabled since you're on a metered connection.\\nYou can enable synchronization on a metered connection in Ghostly's settings.",
+      "Translation": "⚠ Synkronisering är inaktiverad för att du nuvarande är uppkopplad på en anslutning med datapris.\\nDu kan aktivera synkronisering över anslutningar med datapris i Ghostlys inställningar."
+    },
+    {
       "Key": "Synchronization_Local_Status",
       "Comment": "Synchronizing local state...",
       "Translation": "Synkroniserar lokala ändringar..."
+    },
+    {
+      "Key": "Synchronization_Started",
+      "Comment": "Synchronization started...",
+      "Translation": "Synkronisering startad..."
     },
     {
       "Key": "Template_Action_Approved",

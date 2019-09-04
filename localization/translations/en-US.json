@@ -1012,9 +1012,19 @@
       "Translation": "Starred"
     },
     {
+      "Key": "Synchronization_DisabledBecauseOfMeteredConnection",
+      "Comment": "⚠ Synchronization is disabled since you're on a metered connection.\\nYou can enable synchronization on a metered connection in Ghostly's settings.",
+      "Translation": "⚠ Synchronization is disabled since you're on a metered connection.\\nYou can enable synchronization on a metered connection in Ghostly's settings."
+    },
+    {
       "Key": "Synchronization_Local_Status",
       "Comment": "Synchronizing local state...",
       "Translation": "Synchronizing local state..."
+    },
+    {
+      "Key": "Synchronization_Started",
+      "Comment": "Synchronization started...",
+      "Translation": "Synchronization started..."
     },
     {
       "Key": "Template_Action_Approved",
