@@ -497,6 +497,11 @@
       "Translation": "Kör regler för kategori '{0}'..."
     },
     {
+      "Key": "RuleProcessor_Progress_Single",
+      "Comment": "Running rule '{0}' for category '{1}'...",
+      "Translation": "Kör regel '{0}' för kategory '{1}'..."
+    },
+    {
       "Key": "Rules_AddRule",
       "Comment": "Add new rule...",
       "Translation": "Lägg till regel..."
@@ -607,6 +612,11 @@
       "Translation": "Maximalt antar regler har nåtts. För att skapa fler regler, uppgradera till Ghostly Pro."
     },
     {
+      "Key": "Rules_RunRule_Title",
+      "Comment": "Run '{0}'",
+      "Translation": "Kör '{0}'"
+    },
+    {
       "Key": "Rules_RunRules",
       "Comment": "Run rules...",
       "Translation": "Kör regler..."
@@ -618,8 +628,8 @@
     },
     {
       "Key": "Rules_RunRules_Title",
-      "Comment": "Run rules for category",
-      "Translation": "Kör regler för kategori"
+      "Comment": "Run all rules",
+      "Translation": "Kör alla regler"
     },
     {
       "Key": "Rules_Title",
@@ -1129,7 +1139,7 @@
     {
       "Key": "Time_OneMonthAgo",
       "Comment": "A month ago",
-      "Translation": "För en timma sedan"
+      "Translation": "För en månad sedan"
     },
     {
       "Key": "Time_OneSecondAgo",

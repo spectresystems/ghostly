@@ -497,6 +497,11 @@
       "Translation": ""
     },
     {
+      "Key": "RuleProcessor_Progress_Single",
+      "Comment": "Running rule '{0}' for category '{1}'...",
+      "Translation": ""
+    },
+    {
       "Key": "Rules_AddRule",
       "Comment": "Add new rule...",
       "Translation": ""
@@ -607,6 +612,11 @@
       "Translation": ""
     },
     {
+      "Key": "Rules_RunRule_Title",
+      "Comment": "Run '{0}'",
+      "Translation": ""
+    },
+    {
       "Key": "Rules_RunRules",
       "Comment": "Run rules...",
       "Translation": ""
@@ -618,7 +628,7 @@
     },
     {
       "Key": "Rules_RunRules_Title",
-      "Comment": "Run rules for category",
+      "Comment": "Run all rules",
       "Translation": ""
     },
     {

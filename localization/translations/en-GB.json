@@ -497,6 +497,11 @@
       "Translation": "Running rules for category '{0}'..."
     },
     {
+      "Key": "RuleProcessor_Progress_Single",
+      "Comment": "Running rule '{0}' for category '{1}'...",
+      "Translation": "Running rule '{0}' for category '{1}'..."
+    },
+    {
       "Key": "Rules_AddRule",
       "Comment": "Add new rule...",
       "Translation": "Add new rule..."
@@ -607,6 +612,11 @@
       "Translation": "Maximum number of rules reached. To create more rules, upgrade to Ghostly Pro."
     },
     {
+      "Key": "Rules_RunRule_Title",
+      "Comment": "Run '{0}'",
+      "Translation": "Run '{0}'"
+    },
+    {
       "Key": "Rules_RunRules",
       "Comment": "Run rules...",
       "Translation": "Run rules..."
@@ -618,8 +628,8 @@
     },
     {
       "Key": "Rules_RunRules_Title",
-      "Comment": "Run rules for category",
-      "Translation": "Run rules for category"
+      "Comment": "Run all rules",
+      "Translation": "Run all rules"
     },
     {
       "Key": "Rules_Title",
