@@ -208,8 +208,8 @@
     },
     {
       "Key": "DeleteCategory_CannotDelete_UsedInFollowingRules",
-      "Comment": "The category '{0}' is used in following rules:",
-      "Translation": "The category '{0}' is used in following rules:"
+      "Comment": "The category '{0}' is used in the following rules:",
+      "Translation": "The category '{0}' is used in the following rules:"
     },
     {
       "Key": "DeleteCategory_Category_Confirmation",
@@ -453,8 +453,8 @@
     },
     {
       "Key": "Purchase_FreeForCharities",
-      "Comment": "Ghostly is free for charities and non profit organizations.",
-      "Translation": "Ghostly is free for charities and non profit organizations."
+      "Comment": "Ghostly is free for charities and nonprofit organizations.",
+      "Translation": "Ghostly is free for charities and nonprofit organizations."
     },
     {
       "Key": "Purchase_LoadingData",
@@ -678,8 +678,8 @@
     },
     {
       "Key": "Settings_ClickLibrary",
-      "Comment": "Click on a library below to see it's license agreement.",
-      "Translation": "Click on a library below to see it's license agreement."
+      "Comment": "Click on a library below to see its license agreement.",
+      "Translation": "Click on a library below to see its license agreement."
     },
     {
       "Key": "Settings_Comments",
