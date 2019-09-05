@@ -612,6 +612,11 @@
       "Translation": "Maximalt antar regler har nåtts. För att skapa fler regler, uppgradera till Ghostly Pro."
     },
     {
+      "Key": "Rules_NoRules",
+      "Comment": "There are no rules.",
+      "Translation": "Det finns inga regler."
+    },
+    {
       "Key": "Rules_RunRule_Title",
       "Comment": "Run '{0}'",
       "Translation": "Kör '{0}'"

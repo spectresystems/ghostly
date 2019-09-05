@@ -612,6 +612,11 @@
       "Translation": ""
     },
     {
+      "Key": "Rules_NoRules",
+      "Comment": "There are no rules.",
+      "Translation": ""
+    },
+    {
       "Key": "Rules_RunRule_Title",
       "Comment": "Run '{0}'",
       "Translation": ""

@@ -612,6 +612,11 @@
       "Translation": "Maximum number of rules reached. To create more rules, upgrade to Ghostly Pro."
     },
     {
+      "Key": "Rules_NoRules",
+      "Comment": "There are no rules.",
+      "Translation": "There are no rules."
+    },
+    {
       "Key": "Rules_RunRule_Title",
       "Comment": "Run '{0}'",
       "Translation": "Run '{0}'"
