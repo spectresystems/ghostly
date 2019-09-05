@@ -289,7 +289,7 @@
     {
       "Key": "GitHub_Progress",
       "Comment": "Synchronizing GitHub notifications...",
-      "Translation": "Synchronizing GitHub notifications..."
+      "Translation": "Synchronizing {0} of {1} GitHub notifications..."
     },
     {
       "Key": "GitHub_Progress_Unread",
