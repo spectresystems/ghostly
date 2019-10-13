@@ -247,6 +247,11 @@
       "Translation": ""
     },
     {
+      "Key": "EmojiPicker_Clear",
+      "Comment": "Clear",
+      "Translation": ""
+    },
+    {
       "Key": "General_Cancel",
       "Comment": "Cancel",
       "Translation": ""
@@ -489,6 +494,81 @@
     {
       "Key": "Purchase_UnlimitedRules",
       "Comment": "Unlimited rules",
+      "Translation": ""
+    },
+    {
+      "Key": "Query_Constant",
+      "Comment": "Constant",
+      "Translation": ""
+    },
+    {
+      "Key": "Query_Error_NeedHelp",
+      "Comment": "Need help?",
+      "Translation": ""
+    },
+    {
+      "Key": "Query_Error_Subtitle",
+      "Comment": "Something is wrong with the query...",
+      "Translation": ""
+    },
+    {
+      "Key": "Query_Error_Title",
+      "Comment": "Oh no!",
+      "Translation": ""
+    },
+    {
+      "Key": "Query_Keyword",
+      "Comment": "Keyword",
+      "Translation": ""
+    },
+    {
+      "Key": "Query_Operator",
+      "Comment": "Operator",
+      "Translation": ""
+    },
+    {
+      "Key": "Query_Property",
+      "Comment": "Property",
+      "Translation": ""
+    },
+    {
+      "Key": "Query_Results_None",
+      "Comment": "No results found",
+      "Translation": ""
+    },
+    {
+      "Key": "Query_Results_Plural",
+      "Comment": "{0} results",
+      "Translation": ""
+    },
+    {
+      "Key": "Query_Results_Singular",
+      "Comment": "{0} result",
+      "Translation": ""
+    },
+    {
+      "Key": "Query_Type_Boolean",
+      "Comment": "Boolean",
+      "Translation": ""
+    },
+    {
+      "Key": "Query_Type_Integer",
+      "Comment": "Integer",
+      "Translation": ""
+    },
+    {
+      "Key": "Query_Type_String",
+      "Comment": "String",
+      "Translation": ""
+    },
+    {
+      "Key": "Query_Type_Unknown",
+      "Comment": "Unknown type",
+      "Translation": ""
+    },
+    {
+      "Key": "Query_Type_Username",
+      "Comment": "Username",
       "Translation": ""
     },
     {

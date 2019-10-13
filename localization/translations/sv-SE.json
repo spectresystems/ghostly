@@ -247,6 +247,11 @@
       "Translation": "Radera regel?"
     },
     {
+      "Key": "EmojiPicker_Clear",
+      "Comment": "Clear",
+      "Translation": "Rensa"
+    },
+    {
       "Key": "General_Cancel",
       "Comment": "Cancel",
       "Translation": "Avbryt"
@@ -490,6 +495,81 @@
       "Key": "Purchase_UnlimitedRules",
       "Comment": "Unlimited rules",
       "Translation": "Obegränsat med regler"
+    },
+    {
+      "Key": "Query_Constant",
+      "Comment": "Constant",
+      "Translation": "Konstant"
+    },
+    {
+      "Key": "Query_Error_NeedHelp",
+      "Comment": "Need help?",
+      "Translation": "Behöver du hjälp?"
+    },
+    {
+      "Key": "Query_Error_Subtitle",
+      "Comment": "Something is wrong with the query...",
+      "Translation": "Något är fel med frågan..."
+    },
+    {
+      "Key": "Query_Error_Title",
+      "Comment": "Oh no!",
+      "Translation": "Hoppsan!"
+    },
+    {
+      "Key": "Query_Keyword",
+      "Comment": "Keyword",
+      "Translation": "Nyckelord"
+    },
+    {
+      "Key": "Query_Operator",
+      "Comment": "Operator",
+      "Translation": "Operator"
+    },
+    {
+      "Key": "Query_Property",
+      "Comment": "Property",
+      "Translation": "Egenskap"
+    },
+    {
+      "Key": "Query_Results_None",
+      "Comment": "No results found",
+      "Translation": "Inga träffar"
+    },
+    {
+      "Key": "Query_Results_Plural",
+      "Comment": "{0} results",
+      "Translation": "{0} träffar"
+    },
+    {
+      "Key": "Query_Results_Singular",
+      "Comment": "{0} result",
+      "Translation": "{0} träff"
+    },
+    {
+      "Key": "Query_Type_Boolean",
+      "Comment": "Boolean",
+      "Translation": "Boolesk"
+    },
+    {
+      "Key": "Query_Type_Integer",
+      "Comment": "Integer",
+      "Translation": "Heltal"
+    },
+    {
+      "Key": "Query_Type_String",
+      "Comment": "String",
+      "Translation": "Text"
+    },
+    {
+      "Key": "Query_Type_Unknown",
+      "Comment": "Unknown type",
+      "Translation": "Okänd typ"
+    },
+    {
+      "Key": "Query_Type_Username",
+      "Comment": "Username",
+      "Translation": "Användarnamn"
     },
     {
       "Key": "RuleProcessor_Progress",

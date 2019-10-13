@@ -247,6 +247,11 @@
       "Translation": "Delete rule?"
     },
     {
+      "Key": "EmojiPicker_Clear",
+      "Comment": "Clear",
+      "Translation": "Clear"
+    },
+    {
       "Key": "General_Cancel",
       "Comment": "Cancel",
       "Translation": "Cancel"
@@ -490,6 +495,81 @@
       "Key": "Purchase_UnlimitedRules",
       "Comment": "Unlimited rules",
       "Translation": "Unlimited rules"
+    },
+    {
+      "Key": "Query_Constant",
+      "Comment": "Constant",
+      "Translation": "Constant"
+    },
+    {
+      "Key": "Query_Error_NeedHelp",
+      "Comment": "Need help?",
+      "Translation": "Need help?"
+    },
+    {
+      "Key": "Query_Error_Subtitle",
+      "Comment": "Something is wrong with the query...",
+      "Translation": "Something is wrong with the query..."
+    },
+    {
+      "Key": "Query_Error_Title",
+      "Comment": "Oh no!",
+      "Translation": "Oh no!"
+    },
+    {
+      "Key": "Query_Keyword",
+      "Comment": "Keyword",
+      "Translation": "Keyword"
+    },
+    {
+      "Key": "Query_Operator",
+      "Comment": "Operator",
+      "Translation": "Operator"
+    },
+    {
+      "Key": "Query_Property",
+      "Comment": "Property",
+      "Translation": "Property"
+    },
+    {
+      "Key": "Query_Results_None",
+      "Comment": "No results found",
+      "Translation": "No results found"
+    },
+    {
+      "Key": "Query_Results_Plural",
+      "Comment": "{0} results",
+      "Translation": "{0} results"
+    },
+    {
+      "Key": "Query_Results_Singular",
+      "Comment": "{0} result",
+      "Translation": "{0} result"
+    },
+    {
+      "Key": "Query_Type_Boolean",
+      "Comment": "Boolean",
+      "Translation": "Boolean"
+    },
+    {
+      "Key": "Query_Type_Integer",
+      "Comment": "Integer",
+      "Translation": "Integer"
+    },
+    {
+      "Key": "Query_Type_String",
+      "Comment": "String",
+      "Translation": "String"
+    },
+    {
+      "Key": "Query_Type_Unknown",
+      "Comment": "Unknown type",
+      "Translation": "Unknown type"
+    },
+    {
+      "Key": "Query_Type_Username",
+      "Comment": "Username",
+      "Translation": "Username"
     },
     {
       "Key": "RuleProcessor_Progress",
