@@ -42,6 +42,11 @@
       "Translation": "Publika repon"
     },
     {
+      "Key": "Accounts_Review",
+      "Comment": "Review account permissions",
+      "Translation": "Granska rättigheter"
+    },
+    {
       "Key": "Accounts_SignInToGitHub",
       "Comment": "Sign in to GitHub...",
       "Translation": "Logga in till GitHub..."
@@ -255,6 +260,11 @@
       "Key": "General_Cancel",
       "Comment": "Cancel",
       "Translation": "Avbryt"
+    },
+    {
+      "Key": "General_Close",
+      "Comment": "Close",
+      "Translation": "Stäng"
     },
     {
       "Key": "General_Create",
