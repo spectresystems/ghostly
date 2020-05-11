@@ -1,0 +1,180 @@
+{
+    "releases": [
+        {
+            "version": "1.0.4",
+            "entries": [
+                {
+                    "kind": "improvement",
+                    "description": "Better handling of rate limits."
+                },
+                {
+                    "kind": "bug",
+                    "description": "Issues not synchronizing sometimes.",
+                    "link": "https://github.com/spectresystems/ghostly/issues/39"
+                },
+                {
+                    "kind": "bug",
+                    "description": "Show rate limit time in local timezone."
+                },
+                {
+                    "kind": "bug",
+                    "description": "Do not attempt to synchronize notifications from private repositories if user don't have permission to see private repositories."
+                }
+            ]
+        },
+        {
+            "version": "1.0.5",
+            "entries": [
+                {
+                    "kind": "bug",
+                    "description": "Emojis in labels should now appear correctly.",
+                    "link": "https://github.com/spectresystems/ghostly/issues/42"
+                },
+                {
+                    "kind": "improvement",
+                    "description": "Shows progress dialog for long running operations such as moving, archiving and marking notifications as read."
+                },
+                {
+                    "kind": "feature",
+                    "description": "Added \"Mark all as read\" context menu for categories.",
+                    "link": "https://github.com/spectresystems/ghostly/issues/38"
+                },
+                {
+                    "kind": "feature",
+                    "description": "Added \"Archive all\" context menu for Inbox.",
+                    "link": "https://github.com/spectresystems/ghostly/issues/35"
+                }
+            ]
+        },
+        {
+            "version": "1.0.6",
+            "entries": [
+                {
+                    "kind": "feature",
+                    "description": "Added button to open notification in browser.",
+                    "link": "https://github.com/spectresystems/ghostly/issues/34"
+                },
+                {
+                    "kind": "feature",
+                    "description": "Added context menu to open notification in browser.",
+                    "link": "https://github.com/spectresystems/ghostly/issues/34"
+                },
+                {
+                    "kind": "improvement",
+                    "description": "Show number of unread items for each category when navigation pane is collapsed."
+                }
+            ]
+        },
+        {
+            "version": "1.1.2",
+            "entries": [
+                {
+                    "kind": "feature",
+                    "description": "Added button to run a single rule.",
+                    "link": "https://github.com/spectresystems/ghostly/issues/48"
+                },
+                {
+                    "kind": "feature",
+                    "description": "Translated Ghostly to Swedish (sv-SE)."
+                },
+                {
+                    "kind": "feature",
+                    "description": "Translated Ghostly to English (en-GB)."
+                }
+            ]
+        },
+        {
+            "version": "1.2.1",
+            "entries": [
+                {
+                    "kind": "feature",
+                    "description": "Categories can now have custom icons. 🎉"
+                },
+                {
+                    "kind": "feature",
+                    "description": "The master/detail view can now be resized."
+                },
+                {
+                    "kind": "bug",
+                    "description": "Fixed a lot of synchronization issues."
+                },
+                {
+                    "kind": "bug",
+                    "description": "Changes from background synchronization should now update the UI if Ghostly is running."
+                },
+                {
+                    "kind": "bug",
+                    "description": "Archiving all items in a category should make them as read as well."
+                },
+                {
+                    "kind": "bug",
+                    "description": "Archive all should only marked unread items as read."
+                },
+                {
+                    "kind": "bug",
+                    "description": "Remove delay when showing or hiding category badges."
+                },
+                {
+                    "kind": "bug",
+                    "description": "Some commands were executed on the UI thread which would make Ghostly unresponsive."
+                },
+                {
+                    "kind": "bug",
+                    "description": "Fixed issue where navigation list sometimes had an incorrect palette in dark mode."
+                }
+            ]
+        },
+        {
+            "version": "1.3.3",
+            "entries": [
+                {
+                    "kind": "feature",
+                    "description": "Auto completion for Ghostly's query language. This should make it easier to create filters, rules, and write queries."
+                },
+                {
+                    "kind": "bug",
+                    "description": "Fixed issue where synchronization would take longer than it had to."
+                },
+                {
+                    "kind": "bug",
+                    "description": "Various bug fixes and stability improvements."
+                }
+            ]
+        },
+        {
+            "version": "1.4.0",
+            "entries": [
+                {
+                    "kind": "bug",
+                    "description": "Various bug fixes and stability improvements."
+                }
+            ]
+        },
+        {
+            "version": "1.5.0",
+            "entries": [
+                {
+                    "kind": "feature",
+                    "description": "Added ARM32 support. Ghostly now runs better on your Windows 10 tablet!"
+                },
+                {
+                    "kind": "bug",
+                    "description": "Fixed a query parsing bug that made it impossible to search for a single word without quoting it"
+                }
+            ]
+        },
+        {
+            "version": "1.6.0",
+            "entries": [
+                {
+                    "kind": "feature",
+                    "description": "Added link to review account permissions."
+                },
+                {
+                    "kind": "bug",
+                    "description": "Notifications marked as read in GitHub was sometimes not marked as read in Ghostly."
+                }
+            ]
+        }
+    ]
+}
