@@ -2,8 +2,23 @@
   "Culture": "replace-me",
   "Entries": [
     {
+      "Key": "Accounts_Account",
+      "Comment": "Account",
+      "Translation": ""
+    },
+    {
       "Key": "Accounts_AuthorizationProblem",
       "Comment": "There was a problem authorizing this account.",
+      "Translation": ""
+    },
+    {
+      "Key": "Accounts_ExportProfile",
+      "Comment": "Export profile",
+      "Translation": ""
+    },
+    {
+      "Key": "Accounts_ImportProfile",
+      "Comment": "Import profile",
       "Translation": ""
     },
     {
@@ -19,6 +34,16 @@
     {
       "Key": "Accounts_PleaseSignInAgain",
       "Comment": "Please sign out and sign in again.",
+      "Translation": ""
+    },
+    {
+      "Key": "Accounts_ProfileManagementProhibited",
+      "Comment": "Profile management prohibited",
+      "Translation": ""
+    },
+    {
+      "Key": "Accounts_Profiles",
+      "Comment": "Profiles",
       "Translation": ""
     },
     {
@@ -92,6 +117,16 @@
       "Translation": ""
     },
     {
+      "Key": "CreateCategory_CategoryImported",
+      "Comment": "The category was previously imported from '{0}'.",
+      "Translation": ""
+    },
+    {
+      "Key": "CreateCategory_CategoryImported_Warning",
+      "Comment": "Changes to this category will be lost if re-importing again.",
+      "Translation": ""
+    },
+    {
       "Key": "CreateCategory_Expression",
       "Comment": "Expression",
       "Translation": ""
@@ -123,7 +158,7 @@
     },
     {
       "Key": "CreateCategory_Title_NewFilter",
-      "Comment": "New filter",
+      "Comment": "Create filter",
       "Translation": ""
     },
     {
@@ -157,6 +192,11 @@
       "Translation": ""
     },
     {
+      "Key": "CreateRule_EditRule",
+      "Comment": "Edit rule",
+      "Translation": ""
+    },
+    {
       "Key": "CreateRule_MarkAsRead",
       "Comment": "Mark as read",
       "Translation": ""
@@ -184,6 +224,16 @@
     {
       "Key": "CreateRule_NewRule",
       "Comment": "New rule",
+      "Translation": ""
+    },
+    {
+      "Key": "CreateRule_RuleImported",
+      "Comment": "The rule was previously imported from '{0}'.",
+      "Translation": ""
+    },
+    {
+      "Key": "CreateRule_RuleImported_Warning",
+      "Comment": "Changes to this rule will be lost if re-importing again.",
       "Translation": ""
     },
     {
@@ -257,6 +307,11 @@
       "Translation": ""
     },
     {
+      "Key": "ExportProfile_Progress",
+      "Comment": "Exporting profile {0}…",
+      "Translation": ""
+    },
+    {
       "Key": "General_Cancel",
       "Comment": "Cancel",
       "Translation": ""
@@ -277,6 +332,16 @@
       "Translation": ""
     },
     {
+      "Key": "General_Export",
+      "Comment": "Export",
+      "Translation": ""
+    },
+    {
+      "Key": "General_Import",
+      "Comment": "Import",
+      "Translation": ""
+    },
+    {
       "Key": "General_Menu",
       "Comment": "Menu",
       "Translation": ""
@@ -292,6 +357,11 @@
       "Translation": ""
     },
     {
+      "Key": "General_TrialMessage_Feature",
+      "Comment": "This feature is only enabled for Ghostly Pro.",
+      "Translation": ""
+    },
+    {
       "Key": "GitHub_Broker_SignInUsingExternalBrowser",
       "Comment": "Sign in using external browser",
       "Translation": ""
@@ -303,7 +373,7 @@
     },
     {
       "Key": "GitHub_Progress",
-      "Comment": "Synchronizing GitHub notifications...",
+      "Comment": "Synchronizing {0} of {1} GitHub notifications...",
       "Translation": ""
     },
     {
@@ -329,6 +399,11 @@
     {
       "Key": "GitHub_Toast_NewNotifications_Title",
       "Comment": "New GitHub notifications",
+      "Translation": ""
+    },
+    {
+      "Key": "ImportProfile_Progress",
+      "Comment": "Importing profile {0}…",
       "Translation": ""
     },
     {
@@ -422,6 +497,11 @@
       "Translation": ""
     },
     {
+      "Key": "Main_UpdateItem",
+      "Comment": "Update item",
+      "Translation": ""
+    },
+    {
       "Key": "MarkAllAsRead_Confirmation",
       "Comment": "Are you sure that you want to mark all notifications in '{0}' as read?\\n\\nThis action cannot be undone.",
       "Translation": ""
@@ -467,8 +547,28 @@
       "Translation": ""
     },
     {
+      "Key": "NewProfile_Placeholder",
+      "Comment": "Profile name",
+      "Translation": ""
+    },
+    {
+      "Key": "NewProfile_Title",
+      "Comment": "Create new profile",
+      "Translation": ""
+    },
+    {
+      "Key": "Purchase_Email",
+      "Comment": "For more information, send an email to",
+      "Translation": ""
+    },
+    {
       "Key": "Purchase_FreeForCharities",
       "Comment": "Ghostly is free for charities and nonprofit organizations.",
+      "Translation": ""
+    },
+    {
+      "Key": "Purchase_ImportExport",
+      "Comment": "Import and export profiles",
       "Translation": ""
     },
     {
@@ -729,6 +829,36 @@
     {
       "Key": "Rules_Title",
       "Comment": "Rules",
+      "Translation": ""
+    },
+    {
+      "Key": "SelectProfile_CreateNewProfile",
+      "Comment": "Create new profile",
+      "Translation": ""
+    },
+    {
+      "Key": "SelectProfile_ErrorLoading",
+      "Comment": "There was a problem loading account profiles",
+      "Translation": ""
+    },
+    {
+      "Key": "SelectProfile_Loading",
+      "Comment": "Loading profiles…",
+      "Translation": ""
+    },
+    {
+      "Key": "SelectProfile_Title_Export",
+      "Comment": "Export Ghostly profile",
+      "Translation": ""
+    },
+    {
+      "Key": "SelectProfile_Title_Import",
+      "Comment": "Import Ghostly profile",
+      "Translation": ""
+    },
+    {
+      "Key": "SelectProfile_TrialMessage",
+      "Comment": "To import and export profiles, upgrade to Ghostly Pro.",
       "Translation": ""
     },
     {

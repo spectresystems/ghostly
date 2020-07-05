@@ -2,9 +2,24 @@
   "Culture": "sv-SE",
   "Entries": [
     {
+      "Key": "Accounts_Account",
+      "Comment": "Account",
+      "Translation": "Konto"
+    },
+    {
       "Key": "Accounts_AuthorizationProblem",
       "Comment": "There was a problem authorizing this account.",
       "Translation": "Det inträffade ett problem när detta kontot skulle auktoriseras."
+    },
+    {
+      "Key": "Accounts_ExportProfile",
+      "Comment": "Export profile",
+      "Translation": "Exportera profil"
+    },
+    {
+      "Key": "Accounts_ImportProfile",
+      "Comment": "Import profile",
+      "Translation": "Importera profil"
     },
     {
       "Key": "Accounts_NoAccounts",
@@ -20,6 +35,16 @@
       "Key": "Accounts_PleaseSignInAgain",
       "Comment": "Please sign out and sign in again.",
       "Translation": "Vänligen logga ut och logga in igen."
+    },
+    {
+      "Key": "Accounts_ProfileManagementProhibited",
+      "Comment": "Profile management prohibited",
+      "Translation": "Profilhantering inte tillåten"
+    },
+    {
+      "Key": "Accounts_Profiles",
+      "Comment": "Profiles",
+      "Translation": "Profiler"
     },
     {
       "Key": "Accounts_PublicAndPrivateRepositories",
@@ -92,6 +117,16 @@
       "Translation": "Arkivera allt?"
     },
     {
+      "Key": "CreateCategory_CategoryImported",
+      "Comment": "The category was previously imported from '{0}'.",
+      "Translation": "Kategorin har tidigare importerats från '{0}'."
+    },
+    {
+      "Key": "CreateCategory_CategoryImported_Warning",
+      "Comment": "Changes to this category will be lost if re-importing again.",
+      "Translation": "Ändringar gjorda till denna kategori förloras om en ny import görs."
+    },
+    {
       "Key": "CreateCategory_Expression",
       "Comment": "Expression",
       "Translation": "Uttryck"
@@ -123,7 +158,7 @@
     },
     {
       "Key": "CreateCategory_Title_NewFilter",
-      "Comment": "New filter",
+      "Comment": "Create filter",
       "Translation": "Skapa filter"
     },
     {
@@ -157,6 +192,11 @@
       "Translation": "Uttryck"
     },
     {
+      "Key": "CreateRule_EditRule",
+      "Comment": "Edit rule",
+      "Translation": "Redigera regel"
+    },
+    {
       "Key": "CreateRule_MarkAsRead",
       "Comment": "Mark as read",
       "Translation": "Markera som läst"
@@ -185,6 +225,16 @@
       "Key": "CreateRule_NewRule",
       "Comment": "New rule",
       "Translation": "Ny regel"
+    },
+    {
+      "Key": "CreateRule_RuleImported",
+      "Comment": "The rule was previously imported from '{0}'.",
+      "Translation": "Regeln har tidigare importerats från '{0}'."
+    },
+    {
+      "Key": "CreateRule_RuleImported_Warning",
+      "Comment": "Changes to this rule will be lost if re-importing again.",
+      "Translation": "Ändringar gjorda till denna regel förloras om en ny import görs"
     },
     {
       "Key": "CreateRule_Star",
@@ -257,6 +307,11 @@
       "Translation": "Rensa"
     },
     {
+      "Key": "ExportProfile_Progress",
+      "Comment": "Exporting profile {0}…",
+      "Translation": "Exporterar profil {0}…"
+    },
+    {
       "Key": "General_Cancel",
       "Comment": "Cancel",
       "Translation": "Avbryt"
@@ -277,6 +332,16 @@
       "Translation": "Radera"
     },
     {
+      "Key": "General_Export",
+      "Comment": "Export",
+      "Translation": "Exportera"
+    },
+    {
+      "Key": "General_Import",
+      "Comment": "Import",
+      "Translation": "Importera"
+    },
+    {
       "Key": "General_Menu",
       "Comment": "Menu",
       "Translation": "Meny"
@@ -292,6 +357,11 @@
       "Translation": "Spara"
     },
     {
+      "Key": "General_TrialMessage_Feature",
+      "Comment": "This feature is only enabled for Ghostly Pro.",
+      "Translation": "Denna funktion stödjs endast i Ghostly Pro."
+    },
+    {
       "Key": "GitHub_Broker_SignInUsingExternalBrowser",
       "Comment": "Sign in using external browser",
       "Translation": "Logga in med extern webbläsare"
@@ -303,7 +373,7 @@
     },
     {
       "Key": "GitHub_Progress",
-      "Comment": "Synchronizing GitHub notifications...",
+      "Comment": "Synchronizing {0} of {1} GitHub notifications...",
       "Translation": "Synkroniserar {0} av {1} GitHub-meddelanden..."
     },
     {
@@ -330,6 +400,11 @@
       "Key": "GitHub_Toast_NewNotifications_Title",
       "Comment": "New GitHub notifications",
       "Translation": "Nya GitHub-meddelanden"
+    },
+    {
+      "Key": "ImportProfile_Progress",
+      "Comment": "Importing profile {0}…",
+      "Translation": "Importerar profil {0}…"
     },
     {
       "Key": "License_HaveLifetime",
@@ -422,6 +497,11 @@
       "Translation": "Ta bort favoritmarkering"
     },
     {
+      "Key": "Main_UpdateItem",
+      "Comment": "Update item",
+      "Translation": "Uppdatera"
+    },
+    {
       "Key": "MarkAllAsRead_Confirmation",
       "Comment": "Are you sure that you want to mark all notifications in '{0}' as read?\\n\\nThis action cannot be undone.",
       "Translation": "Är du säker på att du vill markera alla meddelanden i '{0}' som lästa?\\n\\nDenna åtgärd kan inte ångras."
@@ -467,9 +547,29 @@
       "Translation": "Flytta meddelande"
     },
     {
+      "Key": "NewProfile_Placeholder",
+      "Comment": "Profile name",
+      "Translation": "Profilnamn"
+    },
+    {
+      "Key": "NewProfile_Title",
+      "Comment": "Create new profile",
+      "Translation": "Skapa ny profil"
+    },
+    {
+      "Key": "Purchase_Email",
+      "Comment": "For more information, send an email to",
+      "Translation": "För mer information, skicka ett e-post till"
+    },
+    {
       "Key": "Purchase_FreeForCharities",
       "Comment": "Ghostly is free for charities and nonprofit organizations.",
       "Translation": "Ghostly är gratis för välgörenheter och ideella föreningar."
+    },
+    {
+      "Key": "Purchase_ImportExport",
+      "Comment": "Import and export profiles",
+      "Translation": "Importera och exportera profiler"
     },
     {
       "Key": "Purchase_LoadingData",
@@ -730,6 +830,36 @@
       "Key": "Rules_Title",
       "Comment": "Rules",
       "Translation": "Regler"
+    },
+    {
+      "Key": "SelectProfile_CreateNewProfile",
+      "Comment": "Create new profile",
+      "Translation": "Skapa ny profil"
+    },
+    {
+      "Key": "SelectProfile_ErrorLoading",
+      "Comment": "There was a problem loading account profiles",
+      "Translation": "Ett fel inträffade när profiler laddades"
+    },
+    {
+      "Key": "SelectProfile_Loading",
+      "Comment": "Loading profiles…",
+      "Translation": "Laddar profiler…"
+    },
+    {
+      "Key": "SelectProfile_Title_Export",
+      "Comment": "Export Ghostly profile",
+      "Translation": "Exportera Ghostly-profil"
+    },
+    {
+      "Key": "SelectProfile_Title_Import",
+      "Comment": "Import Ghostly profile",
+      "Translation": "Importera Ghostly-profil"
+    },
+    {
+      "Key": "SelectProfile_TrialMessage",
+      "Comment": "To import and export profiles, upgrade to Ghostly Pro.",
+      "Translation": "För att importera och exportera profiler, uppgradera till Ghostly Pro."
     },
     {
       "Key": "Settings_About",
