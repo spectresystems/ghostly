@@ -307,6 +307,11 @@
       "Translation": "Clear"
     },
     {
+      "Key": "ExportProfile_Error",
+      "Comment": "An error occured while exporting profile.\\nSee the log for more information.",
+      "Translation": "An error occured while exporting profile.\\nSee the log for more information."
+    },
+    {
       "Key": "ExportProfile_Progress",
       "Comment": "Exporting profile {0}…",
       "Translation": "Exporting profile {0}…"
@@ -330,6 +335,11 @@
       "Key": "General_Delete",
       "Comment": "Delete",
       "Translation": "Delete"
+    },
+    {
+      "Key": "General_ErrorOccured",
+      "Comment": "An error occurred",
+      "Translation": "An error occurred"
     },
     {
       "Key": "General_Export",

@@ -307,6 +307,11 @@
       "Translation": "Rensa"
     },
     {
+      "Key": "ExportProfile_Error",
+      "Comment": "An error occured while exporting profile.\\nSee the log for more information.",
+      "Translation": "Ett fel inträffade under export av profilen.\\nSe Ghostlys logg för mer information."
+    },
+    {
       "Key": "ExportProfile_Progress",
       "Comment": "Exporting profile {0}…",
       "Translation": "Exporterar profil {0}…"
@@ -330,6 +335,11 @@
       "Key": "General_Delete",
       "Comment": "Delete",
       "Translation": "Radera"
+    },
+    {
+      "Key": "General_ErrorOccured",
+      "Comment": "An error occurred",
+      "Translation": "Ett fel inträffade"
     },
     {
       "Key": "General_Export",
