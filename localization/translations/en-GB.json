@@ -487,6 +487,16 @@
       "Translation": "Search in {0}"
     },
     {
+      "Key": "Main_Share",
+      "Comment": "Share...",
+      "Translation": "Share..."
+    },
+    {
+      "Key": "Main_ShareGitHubLink",
+      "Comment": "Share link to GitHub item",
+      "Translation": "Share link to GitHub item"
+    },
+    {
       "Key": "Main_Star",
       "Comment": "Star",
       "Translation": "Star"

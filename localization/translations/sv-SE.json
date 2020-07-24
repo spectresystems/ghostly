@@ -487,6 +487,16 @@
       "Translation": "Sök i {0}"
     },
     {
+      "Key": "Main_Share",
+      "Comment": "Share...",
+      "Translation": "Dela..."
+    },
+    {
+      "Key": "Main_ShareGitHubLink",
+      "Comment": "Share link to GitHub item",
+      "Translation": "Dela länk till GitHub-meddelande"
+    },
+    {
       "Key": "Main_Star",
       "Comment": "Star",
       "Translation": "Favoritmarkera"
